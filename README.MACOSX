@@ -4,7 +4,7 @@ If you have Homebrew <http://brew.sh/>:
     brew tap bertjwregeer/compat
     # Install gcc (needed for gfortran), glibtool, Boost, ZeroMQ and its C++
     # bindings.
-    brew install gcc libtool boost zeromq cppmq
+    brew install gcc libtool boost zeromq cppzmq
     # Then install as normal.
     ./autogen.sh
 
